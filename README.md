@@ -1,3 +1,4 @@
-# minor-contribution</br>微小的貢獻
-Some side projects during my undergraduate years.</br>
-本科期間，做的一些小項目。
+# 微笑的貢獻</br>minor-contribution
+
+本科期間，做的一些小項目。</br>
+Some side projects during my undergraduate years.
