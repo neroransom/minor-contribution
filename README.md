@@ -2,6 +2,8 @@
 
 本科期間，做的一些小項目。</br>
 Some side projects during. my undergraduate years.</br>
+
+-----------------------
 - **`SimpleCalculator`**&nbsp; *計算器(QT)*
 - **`PixSearch_demo`** &nbsp; &nbsp; *相似圖片搜索(QT)*
 - **`Searchtool_demo`**  &nbsp;&nbsp;*文件搜索(QT)*
