@@ -1,6 +1,6 @@
 # minor-contribution(微小的貢獻)
 
-本科期間，做的一些小項目。<br/>
+本科期間，搞的一些東西。<br/>
 Some side projects during my undergraduate years.
 <br/><br/>
 
